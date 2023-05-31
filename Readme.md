@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Ваня Ньюман](https://up.htmlacademy.ru/htmlcss-individual/1/user/51778).
-* Наставник: Андрей Захарченко.
+* Наставник: [Андрей Захарченко](https://htmlacademy.ru/profile/drewtsure).
 
 ---
 
